@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 1,
+    "Team1": "Russia",
+    "Team2": "Saudi Arabia",
+    "GoalsTeam1": 5,
+    "GoalsTeam2": 0,
+    "Group": "A",
+    "DateTime": "0001-01-01T00:00:00",
+    "Stadium": "Luzhniki Stadium",
+    "City": "Moscow",
+    "Result": "Russia"
+  },
+  {
+    "Id": 2,
+    "Team1": "Egypt",
+    "Team2": "Uruguay",
+    "GoalsTeam1": 0,
+    "GoalsTeam2": 1,
+    "Group": "A",
+    "DateTime": "0001-01-01T00:00:00",
+    "Stadium": "Central Stadium",
+    "City": "Yekaterinburg",
+    "Result": "Uruguay"
+  },
+  {
+    "Id": 3,
+    "Team1": "Morocco",
+    "Team2": "Iran",
+    "GoalsTeam1": 0,
+    "GoalsTeam2": 1,
+    "Group": "B",
+    "DateTime": "0001-01-01T00:00:00",
+    "Stadium": "Krestovsky Stadium",
+    "City": "Saint Petersburg",
+    "Result": "Iran"
+  },
+  {
+    "Id": 4,
+    "Team1": "Portugal",
+    "Team2": "Spain",
+    "GoalsTeam1": 3,
+    "GoalsTeam2": 3,
+    "Group": "B",
+    "DateTime": "0001-01-01T00:00:00",
+    "Stadium": "Fisht Olympic Stadium",
+    "City": "Sochi",
+    "Result": "Draw"
+  },
+  {
+    "Id": 5,
+    "Team1": "France",
+    "Team2": "Australia",
+    "GoalsTeam1": 2,
+    "GoalsTeam2": 1,
+    "Group": "C",
+    "DateTime": "0001-01-01T00:00:00",
+    "Stadium": "Kazan Arena",
+    "City": "Kazan",
+    "Result": "France"
+  },
+  {
+    "Id": 6,
+    "Team1": "Argentina",
+    "Team2": "Iceland",
+    "GoalsTeam1": 1,
+    "GoalsTeam2": 1,
+    "Group": "D",
+    "DateTime": "0001-01-01T00:00:00",
+    "Stadium": "Spartak Stadium",
+    "City": "Moscow",
+    "Result": "Draw"
+  },
+  {
+    "Id": 10,
+    "Team1": "Argentina",
+    "Team2": "Brasil",
+    "GoalsTeam1": 7,
+    "GoalsTeam2": 1,
+    "Group": "A",
+    "DateTime": "2024-06-22T21:11:02.22Z",
+    "Stadium": "Maracana",
+    "City": "Rio de Janeiro",
+    "Result": "Argentina"
+  },
+  {
+    "Id": 10,
+    "Team1": "Argentina",
+    "Team2": "Brasil",
+    "GoalsTeam1": 7,
+    "GoalsTeam2": 1,
+    "Group": "A",
+    "DateTime": "2024-06-22T21:11:02.22Z",
+    "Stadium": "Maracana",
+    "City": "Rio de Janeiro",
+    "Result": "Argentina"
+  },
+  {
+    "Id": 10,
+    "Team1": "Argentina",
+    "Team2": "Brasil",
+    "GoalsTeam1": 7,
+    "GoalsTeam2": 1,
+    "Group": "A",
+    "DateTime": "2024-06-22T21:11:02.22Z",
+    "Stadium": "Maracana",
+    "City": "Rio de Janeiro",
+    "Result": "Argentina"
+  }
+]
