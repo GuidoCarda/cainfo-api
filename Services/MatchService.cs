@@ -22,6 +22,14 @@ namespace cainfo.Services
             return matches;
         }
 
+        public Match? GetMatch(int id)
+        {
+            var matches = GetMatches();
+            var match = matches.Find(x => x.Id == id);
+
+            return match;
+        }
+
         public void SaveNewMatch(List<Match> matches)
         {
             var json = JsonSerializer.Serialize(matches, new JsonSerializerOptions { WriteIndented = true });

@@ -29,9 +29,20 @@ namespace cainfo.Controllers
 
             var matches = _matchService.GetMatches();
 
-
-
             return Ok(matches);
+        }
+
+        [HttpGet("{id}")]
+        public ActionResult<Match> GetOne(int id)
+        {
+            var match = _matchService.GetMatch(id);
+            
+            if(match == null)
+            {
+                return NotFound("There is no existing match with that id");
+            }
+
+            return match;
         }
 
         [HttpPost]
